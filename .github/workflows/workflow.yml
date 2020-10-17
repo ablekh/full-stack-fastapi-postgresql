@@ -10,4 +10,4 @@ jobs:
     steps:
     - name: Test
       run: |
-        sh ./scripts/test.sh
+        sh ../../../scripts/test.sh
